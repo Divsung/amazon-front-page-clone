@@ -21,7 +21,7 @@
 }
 
 .logo{
-    background-image: url("Amazon-Logo.png");
+    background-image: url("images/Amazon-Logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -257,7 +257,7 @@
 /* hero */
 
 .hero{
-    background-image: url("hero image.jpg");
+    background-image: url("images/hero image.jpg");
     height: 350px;
     width: 100%;
     background-size: cover;
@@ -464,7 +464,7 @@ ul{
 }
 
 .amazon-logo{
-    background-image: url("Amazon-Logo.png");
+    background-image: url("images/Amazon-Logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
